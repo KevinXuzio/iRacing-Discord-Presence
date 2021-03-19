@@ -1,0 +1,15 @@
+{
+  "name": "iracing-discord-presence",
+  "version": "1.0.0",
+  "description": "Rich Presence implementation for iRacing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin 'Xuzio'",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.2.0",
+    "node-irsdk": "^2.1.6"
+  }
+}
